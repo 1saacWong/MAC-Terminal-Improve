@@ -1,5 +1,4 @@
-# MAC-Terminal-Improve
-## Cheatsheet to improve the Mac Terminal colour for readibility
+# Cheatsheet to improve the Mac Terminal colour for readibility
 
 Open **Terminal** and type `nano .bash_profile`
 
