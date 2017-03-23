@@ -11,7 +11,7 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 alias ls='ls -GFh'
 ```
 
-`Control+O` to **save**, then `Control+X` to **exit**.
+`Control+O`(O for Orange) + enter  to **save**, then `Control+X` to **exit**.
 
 - [x] Explanation:
 > The first line changes the bash prompt to be colourised, and the prompt to be `username@hostname:cwd $`
